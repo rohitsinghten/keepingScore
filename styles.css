@@ -1,0 +1,10 @@
+.winner{
+     color: green;
+}
+.loser{
+    color: red;
+} 
+
+.totalBox{
+    margin-top: 4%;
+}
